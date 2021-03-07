@@ -1,8 +1,8 @@
-#ファイルを共有できるツール
+# ファイルを共有できるツール
 
 これは、同じlan内でファイルを共有できるtoolです。
 
-![logo](https://raw.githubusercontent.com/rihitosan/file-kyouyuu/main/logo.png)
+![logo](https://raw.githubusercontent.com/rihitosan/file_kyouyuu/main/logo.png)
 
 ## 使い方
 
@@ -11,13 +11,11 @@
 ③[共有(ウィンドウを閉じる)]ボタンを押す
 ④スマホからQRコードのURLにアクセスする
 
-#注意
+## 注意
 
-注意 : 携帯などの端末でQRコードを読み取っても、
+携帯などの端末でQRコードを読み取っても、
 [共有(ウィンドウを閉じる)]ボタンを押
 さないとファイルは共有されません。
 
 ファイルを共有するときは、共有する端末と同じ
 ルーターに接続してください。
-
-(そのままコピペしただけです。)
